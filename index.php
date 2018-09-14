@@ -1,3 +1,3 @@
 <?
-hecho "hola mundo"
+echo "hola mundo"
 ?>
