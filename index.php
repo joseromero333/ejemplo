@@ -1,3 +1,1 @@
-<?
-echo "hola mundo"
-?>
+HOLA MUNDO
